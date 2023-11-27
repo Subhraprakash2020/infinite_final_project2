@@ -27,3 +27,8 @@
 0:0:0:0:0:0:0:1 - - [27/Nov/2023:09:48:55 +0530] "GET /Login_validate/vendor/daterangepicker/daterangepicker.css HTTP/1.1" 404 1143
 0:0:0:0:0:0:0:1 - - [27/Nov/2023:09:48:55 +0530] "GET /Login_validate/fonts/poppins/Poppins-Regular.ttf HTTP/1.1" 404 1134
 0:0:0:0:0:0:0:1 - - [27/Nov/2023:09:48:55 +0530] "GET /Login_validate/fonts/poppins/Poppins-Bold.ttf HTTP/1.1" 404 1131
+127.0.0.1 - - [27/Nov/2023:09:50:45 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [27/Nov/2023:09:50:47 +0530] "GET /Login_validate/SignInAdmin.jsf HTTP/1.1" 200 6247
+0:0:0:0:0:0:0:1 - - [27/Nov/2023:09:50:47 +0530] "GET /Login_validate/vendor/daterangepicker/daterangepicker.css HTTP/1.1" 404 1143
+0:0:0:0:0:0:0:1 - - [27/Nov/2023:09:50:47 +0530] "GET /Login_validate/fonts/poppins/Poppins-Bold.ttf HTTP/1.1" 404 1131
+0:0:0:0:0:0:0:1 - - [27/Nov/2023:09:50:47 +0530] "GET /Login_validate/fonts/poppins/Poppins-Regular.ttf HTTP/1.1" 404 1134

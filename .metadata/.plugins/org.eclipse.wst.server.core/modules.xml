@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:finalproject" serverId="WildFly 9.x"/>
+  <module moduleId="org.eclipse.jst.jee.server:DemoProj" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:HealthcareManagement" serverId="WildFly 9.x"/>
+  <module moduleId="org.eclipse.jst.jee.server:Login_validate" serverId="Tomcat v8.5 Server at localhost"/>
+</modules>
